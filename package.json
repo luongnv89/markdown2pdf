@@ -1,0 +1,15 @@
+{
+  "name": "markdown-to-pdf",
+  "version": "1.0.0",
+  "description": "This script converts Markdown files to PDF format using Python. It utilizes the `markdown2` library to convert Markdown to HTML and `pdfkit` to generate PDFs from HTML.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "markdown-pdf": "^11.0.0"
+  }
+}
